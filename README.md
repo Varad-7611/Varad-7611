@@ -1,7 +1,7 @@
 <!-- 🌟 Professional Animated GitHub Profile README for Varad Gotkhindikar -->
 
 <h1 align="center">👋 Hi, I'm Varad Gotkhindikar</h1>
-<h3 align="center">🚀 B.Tech Data Science Student | AI & ML Enthusiast | Python Developer</h3>
+<h3 align="center">🚀 B.Tech Data Science Student | AIML & DevOps Enthusiast | Python Developer</h3>
 
 <!-- Typing animation -->
 <p align="center">
