@@ -27,8 +27,9 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,selenium,jupyter,vscode,git,github,postman,powerbi,excel,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,selenium,jupyter,git,github,postman,powerbi,excel,androidstudio,aws,docker,kubernetes" />
 </p>
+
 
 ---
 
