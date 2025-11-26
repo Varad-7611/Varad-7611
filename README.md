@@ -35,8 +35,6 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-7611&layout=compact&theme=tokyonight&hide_border=true" height="150" />
