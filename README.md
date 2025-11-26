@@ -36,8 +36,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  
 </p>
 
 <p align="center">
