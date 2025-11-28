@@ -71,10 +71,7 @@
 
 ---
 
-### ⚡ Fun Fact
-> “Every project is a new way to learn and grow in tech!”
 
----
 
 <!-- Animated Footer Banner -->
 <p align="center">
