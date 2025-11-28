@@ -57,7 +57,7 @@
 | **Google Search Analysis** | Trends & visual analysis using Power BI | Python |
 | **Android ML App** | Flask API-based Android app for spam detection | Flask, Android Studio |
 | **Flipkart Automation** | Automated scraping & analysis of product data | Selenium, Python |
-| **Portfolio Website** | Personal portfolio website | HTML, CSS |
+| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS |
 
 ---
 
