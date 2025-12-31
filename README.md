@@ -5,7 +5,7 @@
 
 <!-- Profile Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varad-7611&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Varad-7611&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
