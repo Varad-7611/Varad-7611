@@ -48,10 +48,10 @@
 
 ---
 
-### 🚀 GitHub Stats
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 </p>
 
 
