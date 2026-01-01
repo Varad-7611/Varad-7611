@@ -48,10 +48,10 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📊 Monthly Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+  <img src="https://metrics.lecoq.io/Varad-7611?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata" />
 </p>
 
 
