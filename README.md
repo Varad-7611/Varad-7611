@@ -48,10 +48,12 @@
 
 ---
 
-### 🧠 Most Worked Projects (Animated Chart)
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Varad-7611&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&animation=true" alt="Most Worked Projects Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
