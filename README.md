@@ -49,16 +49,7 @@
 ---
 ### 📈 Contribution Activity
 
-### 🔥 Contribution on Fire
-
-
-<hr style="height:3px;border:none;background:linear-gradient(90deg,#ff0000,#ff8c00,#ff0000);" />
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff4500&line=ff0000&point=ff8c00" />
-</p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true&area=true" /> </p>
 
 
 
