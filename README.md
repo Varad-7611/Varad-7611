@@ -52,9 +52,7 @@
 ### 🔥 Contribution on Fire
 
 
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Varad-7611&theme=tokyo-night" />
-</p>
+<hr style="height:3px;border:none;background:linear-gradient(90deg,#ff0000,#ff8c00,#ff0000);" />
 
 
 <p align="center">
