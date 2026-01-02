@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad-7611&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 
