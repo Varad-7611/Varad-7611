@@ -51,9 +51,11 @@
 
 ### 🔥 Contribution on Fire
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad-7611&theme=tokyonight&hide_border=true&fire=FF4500&ring=FF0000&currStreakLabel=FF4500&sideNums=FF4500&dates=FF8C00" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Varad-7611&theme=tokyo-night" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff4500&line=ff0000&point=ff8c00" />
