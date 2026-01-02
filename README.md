@@ -50,10 +50,10 @@
 ### 📈 Contribution Activity
 
 
-
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Varad-7611&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad-7611&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
 </p>
+
 
 
 
