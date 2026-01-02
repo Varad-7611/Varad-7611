@@ -49,10 +49,10 @@
 ---
 ### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varad-7611&theme=tokyonight&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=redical&hide_border=true&area=true&bg_color=0d1117&color=ff4500&line=ff0000&point=ff8c00" />
+</p>
 
 ---
 
