@@ -39,14 +39,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Varad-7611&theme=default" 
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-7611&layout=compact&cache_seconds=1800" />
+</p>
+
 
 
 ---
