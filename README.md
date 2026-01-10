@@ -42,8 +42,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Varad-7611" />
+  <img src="https://streak-stats.demolab.com?user=Varad-7611&theme=tokyonight" />
 </p>
+
 
 
 
