@@ -41,9 +41,8 @@
 
 ### 📊 GitHub Analytics
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night" />
+  <img src="https://metrics.lecoq.io/Varad-7611" />
 </p>
 
 
