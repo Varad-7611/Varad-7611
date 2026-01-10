@@ -6,6 +6,8 @@
 <!-- Profile Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varad-7611&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Varad-7611?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Varad-7611?label=Stars&style=for-the-badge" />
 </p>
 
 
@@ -41,11 +43,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Varad-7611?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Varad-7611?label=Stars&style=for-the-badge" />
-</p>
-
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varad-7611&theme=tokyonight" /> </p>
 
 
 ---
