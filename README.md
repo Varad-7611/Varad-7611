@@ -42,11 +42,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-7611&layout=compact&cache_seconds=1800" />
+  <img src="https://img.shields.io/github/followers/Varad-7611?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Varad-7611?label=Stars&style=for-the-badge" />
 </p>
 
 
