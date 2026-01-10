@@ -60,11 +60,12 @@
 
 | 🧩 Project | 📝 Description | ⚙️ Tech |
 |------------|----------------|--------|
+| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS and **AWS S3 buckets**  |
 | **Spam Detection App** | ML-based app using Streamlit for spam classification | Python, Streamlit, ML |
 | **Google Search Analysis** | Trends & visual analysis | Python |
 | **Android ML App** | Flask API-based Android app for spam detection | Flask, Android Studio |
 | **Flipkart Automation** | Automated scraping & analysis of product data | Selenium, Python |
-| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS |
+
 
 ---
 
