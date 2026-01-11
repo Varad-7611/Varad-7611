@@ -18,7 +18,7 @@
 
 <!-- Animated Welcome Banner-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
 </p>
 
 ---
