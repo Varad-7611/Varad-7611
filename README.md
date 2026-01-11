@@ -5,7 +5,7 @@
 
 <!-- Profile Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varad-7611&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Varad-7611&label=Profile%20Views&color=BD39FA&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Varad-7611?label=Followers&color=E63115&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Varad-7611?label=Stars&color=7272E8&style=for-the-badge" />
 </p>
