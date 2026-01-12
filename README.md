@@ -15,6 +15,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Explorer;Python+%7C+Flask+%7C+Selenium+Developer;Data+Science+%7C+Automation+%7C+DevOps;Passionate+About+Building+Smart+Solutions" alt="Typing Animation" />
 </p>
+
+
 <!-- Animated Welcome Banner-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
