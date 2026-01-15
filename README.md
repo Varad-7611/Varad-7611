@@ -80,8 +80,6 @@
 
 ---
 
-
-
 <!-- Animated Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:00C2FF&height=120&section=footer&animation=twinkling" alt="Footer Banner"/>
