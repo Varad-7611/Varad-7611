@@ -56,14 +56,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
-
-
-
 ---
 
 ### 🌟 Featured Projects
