@@ -55,6 +55,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=3B82F6&line=60A5FA&point=7272E8" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradGotkhindikar&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ### 🌟 Featured Projects
