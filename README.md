@@ -62,10 +62,12 @@
 
 ---
 
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VaradGotkhindikar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Varad-7611" />
 </p>
 
 
