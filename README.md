@@ -60,13 +60,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=VaradGotkhindikar&theme=tokyonight&hide_border=true&ring=00e5ff&fire=ff9800" />
-</p>
 
 
 
