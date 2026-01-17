@@ -62,6 +62,13 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varad-7611&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
 ### 🌟 Featured Projects
 
 | 🧩 Project | 📝 Description | ⚙️ Tech |
