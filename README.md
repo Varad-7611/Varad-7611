@@ -65,7 +65,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=VaradGotkhindikar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Varad-7611&theme=tokyonight&hide_border=true" />
 </p>
 
 
