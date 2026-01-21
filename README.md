@@ -54,18 +54,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varad-7611&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=3B82F6&line=60A5FA&point=FFFFFF" />
 </p>
 
-
----
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Varad-7611's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Varad-7611&theme=dark&hide_border=true&cache_seconds=86400" alt="Varad-7611's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varad-7611&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Varad Gotkhindikar's GitHub Trophies" />
-</p>
-
 ---
 
 ### 🌟 Featured Projects
