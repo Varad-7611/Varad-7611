@@ -59,11 +59,11 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varad-7611&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="varad-7611's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=varad-7611&theme=radical&hide_border=true&cache_seconds=86400" alt="varad-7611's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varad-7611&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Varad-7611's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Varad-7611&theme=dark&hide_border=true&cache_seconds=86400" alt="Varad-7611's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varad-7611&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Varad Gotkhindikar's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Varad-7611&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Varad Gotkhindikar's GitHub Trophies" />
 </p>
 
 ---
@@ -88,13 +88,6 @@
   <a href="https://www.linkedin.com/in/varad-gotkhindikar-b76b06295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Varad-7611"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Varad-Gotkhindikar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-<!-- Animated Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:00C2FF&height=120&section=footer&animation=twinkling" alt="Footer Banner"/>
 </p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
