@@ -1,4 +1,7 @@
 <!-- 🌟 Professional Animated GitHub Profile README for Varad Gotkhindikar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
+</p>
 
 <h1 align="center">👋 Hi, I'm Varad Gotkhindikar</h1>
 <h3 align="center">🚀 B.Tech Data Science Student | AIML & DevOps Enthusiast | Python Developer</h3>
@@ -17,10 +20,6 @@
 
 
 <!-- Animated Welcome Banner-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7272E8,100:0066FF&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Welcome Banner"/>
-</p>
-
 ---
 
 ### 💫 About Me
