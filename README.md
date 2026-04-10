@@ -48,6 +48,7 @@
   <a href="https://github.com/Varad-7611">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Varad-7611&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Varad-7611's GitHub Stats" />
 </p>
+<p align="center">
   </a>
   <img src="https://streak-stats.demolab.com/?user=Varad-7611&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Varad-7611's GitHub Streak" width="49%" />
 </p>
