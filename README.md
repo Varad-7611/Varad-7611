@@ -17,7 +17,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Python+%7C+Agentic AI+%7C+Backend+Developer;Data+Science+%7C+Automation+%7C+DevOps;Passionate+About+Building+Smart+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Python+%7C+Agentic+AI+%7C+Backend+Developer;Data+Science+%7C+Automation+%7C+DevOps;Passionate+About+Building+Smart+Solutions" alt="Typing Animation" />
 </p>
 
 
