@@ -30,7 +30,7 @@
 - 🧠 Skilled in **Python, Flask, Selenium, Power BI, Excel, Android Studio**  
 - 💻 Exploring **Machine Learning & Flask API for Android ML Apps**  
 - 📫 Reach me at: **[varad7611@gmail.com](mailto:varad7611@gmail.com)**  
-- 🌐 Portfolio: [Website](https://d2y6nbm2sahhg9.cloudfront.net/)
+- 🌐 Portfolio: [Website](http://git-hub-devops-1234.s3-website.eu-north-1.amazonaws.com/)
 
 ---
 
