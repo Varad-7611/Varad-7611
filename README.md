@@ -36,7 +36,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,selenium,git,github,postman,androidstudio,aws,docker,kubernetes,gitlab,kafka,grafana,redis" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,flutter,html,css,js,selenium,git,github,postman,androidstudio,aws,docker,kubernetes,gitlab,kafka,grafana,redis,mysql,mongodb,githubactions,terraform" />
 </p>
 
 
