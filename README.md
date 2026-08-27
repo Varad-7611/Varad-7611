@@ -71,11 +71,11 @@
 
 | 🧩 Project | 📝 Description | ⚙️ Tech |
 |------------|----------------|--------|
-| **Portfolio Website** | Personal portfolio website | HTML, CSS, JS and **AWS S3 buckets**  |
-| **Spam Detection App** | ML-based app using Streamlit for spam classification | Python, Streamlit, ML |
-| **Google Search Analysis** | Trends & visual analysis | Python |
+| **ResearchHUB AI** | A production-ready Agentic AI-powered research assistant that helps users upload, analyze, search, and interact with research papers intelligently. | FastAPI, React + Vite, FAISS vector database, **Cloud deployment on AWS**  |
+| **Data Analysis using Power BI MCP** | This project is to combine Power BI analytics with MCP-based automation to enable deeper semantic model exploration. | Power BI Desktop, Power BI MCP Server, Model Context Protocol (MCP), DAX, Structured datasets (CSV / Excel) |
+| **Attendance Email AI Agent** | An AI-powered attendance automation system that reads Google Sheets attendance records, detects absences, analyzes flexible sheet layouts, generates personalized email notifications with an LLM, and provides a Streamlit dashboard for review and dispatch. | Python, Streamlit, Google Drive API, Google Sheets API, Google Service Account authentication, Groq API, SMTP, google-api-python-client |
 | **Android ML App** | Flask API-based Android app for spam detection | Flask, Android Studio |
-| **Flipkart Automation** | Automated scraping & analysis of product data | Selenium, Python |
+| **AI-Powered YouTube Sentiment Insight Chrome Extension** | This project is an end-to-end MLOps-based Machine Learning system integrated with a Chrome Extension that provides real-time sentiment insights on YouTube content. | Chrome Extension (HTML, CSS, JavaScript), Flask (Python), Scikit-learn, LightGBM, TF-IDF, DVC, MLflow, Docker |
 
 
 ---
