@@ -70,12 +70,12 @@
 ### 🌟 Featured Projects
 
 | 🧩 Project | 📝 Description | ⚙️ Tech |
-|------------|----------------|--------|
-| **ResearchHUB AI** | A production-ready Agentic AI-powered research assistant that helps users upload, analyze, search, and interact with research papers intelligently. | FastAPI, React + Vite, FAISS vector database, **Cloud deployment on AWS**  |
-| **Data Analysis using Power BI MCP** | This project is to combine Power BI analytics with MCP-based automation to enable deeper semantic model exploration. | Power BI Desktop, Power BI MCP Server, Model Context Protocol (MCP), DAX, Structured datasets (CSV / Excel) |
-| **Attendance Email AI Agent** | An AI-powered attendance automation system that reads Google Sheets attendance records, detects absences, analyzes flexible sheet layouts, generates personalized email notifications with an LLM, and provides a Streamlit dashboard for review and dispatch. | Python, Streamlit, Google Drive API, Google Sheets API, Google Service Account authentication, Groq API, SMTP, google-api-python-client |
-| **Android ML App** | Flask API-based Android app for spam detection | Flask, Android Studio |
-| **AI-Powered YouTube Sentiment Insight Chrome Extension** | This project is an end-to-end MLOps-based Machine Learning system integrated with a Chrome Extension that provides real-time sentiment insights on YouTube content. | Chrome Extension (HTML, CSS, JavaScript), Flask (Python), Scikit-learn, LightGBM, TF-IDF, DVC, MLflow, Docker |
+|---|---|---|
+| **ResearchHUB AI** | Agentic AI research assistant for uploading, searching, analyzing, and interacting with research papers. | FastAPI, React, FAISS, AWS |
+| **Power BI MCP Analytics** | MCP-powered system for semantic model exploration and automated Power BI analytics. | Power BI, MCP, DAX, CSV/Excel |
+| **Attendance Email AI Agent** | AI system that detects absences and generates personalized attendance emails from Google Sheets. | Python, Streamlit, Google APIs, Groq, SMTP |
+| **Android ML App** | Android app with a Flask-based API for spam detection. | Flask, Android Studio |
+| **YouTube Sentiment Insight** | MLOps-based Chrome extension providing real-time YouTube sentiment analysis. | JavaScript, Flask, Scikit-learn, LightGBM, MLflow, DVC, Docker |
 
 
 ---
