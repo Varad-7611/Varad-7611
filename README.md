@@ -29,7 +29,6 @@
 - 💡 Passionate about **AI, Data Analysis, Machine Learning, and Automation**  
 - 🧠 Skilled in **Python, Flask, Selenium, Power BI, Excel, Android Studio**  
 - 💻 Exploring **Machine Learning & Flask API for Android ML Apps**  
-- 📫 Reach me at: **[varad7611@gmail.com](mailto:varad7611@gmail.com)**  
 - 🌐 Portfolio: [Website](https://varad-gotkhindikar-portfolio.netlify.app/)
 
 ---
