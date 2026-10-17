@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,flutter,html,css,js,selenium,vscode,git,github,postman,androidstudio,aws,docker,kubernetes,gitlab,kafka,grafana,redis,mysql,mongodb,githubactions,terraform,fastapi,figma,firebase,supabase,nginx,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,flutter,html,css,js,selenium,dart,git,github,postman,androidstudio,aws,docker,kubernetes,gitlab,kafka,grafana,redis,mysql,mongodb,githubactions,terraform,fastapi,figma,firebase,supabase,nginx,gcp" />
 </p>
 
 
